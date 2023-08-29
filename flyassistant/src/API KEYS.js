@@ -1,0 +1,1 @@
+OpenWeatherMapKey = "5f03a196edd6a06f5f82036c74426538"
